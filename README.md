@@ -9,10 +9,10 @@
 ## 🛠️ Languages and tools
 ### Programming languages
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
-<a href="#"><img src="https://iconduck.com/icons/27539/java"/></a>
+<a href="#"><img src="https://img.icons8.com/?size=50&id=13679&format=png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
-<a href="#"><img src=""/></a>
-<a href="#"><img src=""/></a>
+<a href="#"><img src="https://img.icons8.com/?size=48&id=40670&format=png"/></a>
+<a href="#"><img src="https://img.icons8.com/?size=48&id=40669&format=png"/></a>
 
 
 ### Web development
@@ -21,8 +21,7 @@
 <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
 
 
-## 📊 Stats
-<img src="https://raw.githubusercontent.com/AnkitaKode/AnkitaKode/main/github-metrics.svg" alt="Metrics">
+
 
 ## 🔗 Connect with me
 <a href="https://www.instagram.com/ankiita.ak" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
@@ -30,5 +29,3 @@
 ## 🎵 Now playing
 <a href="https://spotify.com/" target="_blank" alt="Spotify now playing"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
 
-## 💰 Support Me
-<a href="https://ko-fi.com/anjanamadu" target="_blank" alt="KoFi"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
