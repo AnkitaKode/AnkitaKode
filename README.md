@@ -34,12 +34,6 @@
 <a href="https://www.instagram.com/ankiita.ak" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/ankitakumari26" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png" alt="LinkedIn"></a>
 
-
-
-## 🎵 Now playing
-<a href="https://spotify.com/" target="_blank" alt="Spotify now playing"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
-
-
  
 
 
