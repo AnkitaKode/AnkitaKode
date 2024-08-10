@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/¯
-- 🌱 I’m currently learning **everything.**
+- 🌱 I’m currently in the process of **learning.**
 - 💬 Ask me about **anything, I am happy to help.**
 - ⚡ Fun fact **still Student.**
 
