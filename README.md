@@ -12,7 +12,7 @@
 <a href="#"><img src="https://img.icons8.com/?size=48&id=40670&format=png"/></a>
 <a href="#"><img src="https://img.icons8.com/?size=50&id=13679&format=png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+
 
 ### Web development
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
