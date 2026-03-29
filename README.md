@@ -1,4 +1,10 @@
+## 👋 Hi, I'm Ankita  
 ## 🚀 Building Scalable AI & Full-Stack Applications
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 
 I'm pursuing **B.Tech in Computer Science Engineering** with a strong focus on **Java Full Stack Development and AI-powered systems**.
 
@@ -77,13 +83,11 @@ I specialize in building **scalable backend architectures, real-time application
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitaKode&show_icons=true&theme=radical" height="160"/>
+ 
   <img src="https://streak-stats.demolab.com?user=AnkitaKode&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaKode&layout=compact&theme=radical" height="150"/>
-</p>
+
 
 ---
 
