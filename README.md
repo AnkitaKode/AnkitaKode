@@ -1,39 +1,94 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Ankita](https://github.com/AnkitaKode) 
+## 🚀 Building Scalable AI & Full-Stack Applications
 
+I'm pursuing **B.Tech in Computer Science Engineering** with a strong focus on **Java Full Stack Development and AI-powered systems**.
 
-- 🔭 I’m currently working on ¯\\\_(ツ)\_/¯
-- 🌱 I’m currently in the progress of **learning.**
-- 💬 Ask me about **anything, I am happy to help.**
-- ⚡ Fun fact **still Student.**
+I specialize in building **scalable backend architectures, real-time applications, and intelligent systems using LLMs and Retrieval-Augmented Generation (RAG)**. My goal is to develop solutions that are not just functional, but efficient, secure, and impactful.
 
-## 🛠️ Languages and tools
+**I'm seeking** internship or full-time opportunities as a **Software Developer (SDE), Full Stack Developer, or Backend Engineer**, where I can contribute to building high-performance applications.
 
-<a href="#"><img src="https://img.icons8.com/?size=48&id=40669&format=png"/></a>
-<a href="#"><img src="https://img.icons8.com/?size=48&id=40670&format=png"/></a>
-<a href="#"><img src="https://img.icons8.com/?size=50&id=13679&format=png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
+---
 
+## 💬 Let's Connect
 
-### Web development
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
+<div align="left">
 
-# 📊 GitHub Stats:
-<div align="center">
-    <!--<img src="https://github-profile-trophy.vercel.app/?username=DarkMortal&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Streak Stats"/><br/>-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaKode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"></img><br/><br/>
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ankitakumari26)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkitaKode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](#)
 
-## 🔗 Connect with me
-<a href="https://www.instagram.com/ankiita.ak" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/ankitakumari26" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png" alt="LinkedIn"></a>
+</div>
 
- 
+---
 
+## 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
 
+<!-- Languages -->
 
-------------
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<!-- Frontend -->
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge" />
+
+<!-- Backend -->
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+
+<!-- Database -->
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-008080?style=for-the-badge" />
+
+<!-- AI -->
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-System-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Embeddings-purple?style=for-the-badge" />
+
+<!-- Tools -->
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</p>
+
+---
+
+## 🔥 Core Skillset
+
+| **Backend Development**                                                            | **Frontend Development**                                                              | **AI & Systems**                                                                  |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)               | ![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)                 |
+| ![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge)     | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge)         | ![OpenAI](https://img.shields.io/badge/OpenAI-purple?style=for-the-badge)         |
+| ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)                 | ![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge) | ![Embeddings](https://img.shields.io/badge/Embeddings-purple?style=for-the-badge) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitaKode&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=AnkitaKode&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaKode&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## ✨ Developer Mindset
+
+> I focus on building **scalable, efficient, and intelligent systems** that solve real-world problems.
+
+---
