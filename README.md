@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Ankita  
 ## 🚀 Building Scalable AI & Full-Stack Applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;AI+Systems;Building+LLM+%2B+RAG+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -80,14 +83,9 @@ I specialize in building **scalable backend architectures, real-time application
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=AnkitaKode&theme=radical" height="160"/>
-</p>
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitaKode&theme=react-dark&hide_border=true"/>
+</p> 
 
 ---
 
