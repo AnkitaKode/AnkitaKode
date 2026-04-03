@@ -1,19 +1,37 @@
-## 👋 Hi, I'm Ankita  
-## 🚀 Building Scalable AI & Full-Stack Applications
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;AI+Systems;Building+LLM+%2B+RAG+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#ff4b5c;">Ankita Kumari</span>
+</h1>
+
+<h3 align="center">🚀 Java Full Stack Developer | AI Systems</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;LLM+%2B+RAG+Engineer;Backend+Focused+Developer;Passionate+Problem+Solver&center=true&width=500&height=45">
 </p>
 
+<!-- ================= FEMALE DEV GIF ================= -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="620"/>
+</p>
+
+## 🧠 About Me
+
+<p align="center">
+  
+💻 Building **AI-powered full-stack applications**  
+⚡ Specialized in **Spring Boot, Microservices & LLM systems**  
+🚀 Focused on **scalable backend architectures & performance**  
+
+</p>
 
 I'm pursuing **B.Tech in Computer Science Engineering** with a strong focus on **Java Full Stack Development and AI-powered systems**.
 
-I specialize in building **scalable backend architectures, real-time applications, and intelligent systems using LLMs and Retrieval-Augmented Generation (RAG)**. My goal is to develop solutions that are not just functional, but efficient, secure, and impactful.
+I specialize in building **scalable backend architectures, real-time applications, and intelligent systems using LLMs and Retrieval-Augmented Generation (RAG)**.
 
-**I'm seeking** internship or full-time opportunities as a **Software Developer (SDE), Full Stack Developer, or Backend Engineer**, where I can contribute to building high-performance applications.
+💼 **Actively seeking:**  
+Software Developer (SDE) | Backend Engineer | Full Stack Developer  
 
 ---
 
