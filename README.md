@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Java Full Stack Developer | AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;LLM+%2B+RAG+Engineer;Backend+Focused+Developer;Passionate+Problem+Solver&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;LLM+%2B+RAG;Backend+Focused+Developer;Passionate+Problem+Solver&center=true&width=500&height=45">
 </p>
 
 <!-- ================= FEMALE DEV GIF ================= -->
